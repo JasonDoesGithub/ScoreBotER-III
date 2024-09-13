@@ -1,7 +1,7 @@
 
 
 /* encoder.h
- *  written by Jason Lester 2024
+ *  written by Jason and Chad Lester 2024
  *   
  *  The Encoder class is used to scan a 2-bit grey code encoder
  *  to keep track of the position of something such as a motor. 
