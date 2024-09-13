@@ -1,5 +1,5 @@
 /* Robot Arm
- *  written by Jason Lester, 2024
+ *  written by Jason and Chad Lester, 2024
  *  
  *  This program controls a 6 motor robotic arm with a gripper
  *  
