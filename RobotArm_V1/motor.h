@@ -1,6 +1,6 @@
 
 /* motor.h
- *  Written by Jason Lester, 2024
+ *  Written by Jason and Chad Lester, 2024
  *  
  *  The Motor class controls a 2-pin variable speed motor.
  *  
